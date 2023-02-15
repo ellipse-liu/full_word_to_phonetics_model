@@ -1,0 +1,4 @@
+ipa_max_encoder_len: 	18
+ipa_max_decoder_len: 	23
+ipa_num_encoder_vocab: 	37
+ipa_num_decoder_vocab: 	41
